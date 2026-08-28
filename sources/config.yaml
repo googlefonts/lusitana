@@ -1,3 +1,4 @@
+includeSourceFixes: true
 buildVariable: false
 removeOutlineOverlaps: false
 sources:
